@@ -1,0 +1,651 @@
+{
+  "@@locale": "en",
+  "chooseYourNativeLanguage": "Choose your Native Language",
+  "@chooseYourNativeLanguage": {
+    "description": "Choose your Native Language"
+  },
+  "searchLanguage": "Search language",
+  "@searchLanguage": {
+    "description": "Search language"
+  },
+  "noLanguageFound": "No language found",
+  "@noLanguageFound": {
+    "description": "No language found"
+  },
+  "allLanguages": "All languages",
+  "@allLanguages": {
+    "description": "All languages"
+  },
+  "currentLanguage": "Current language",
+  "@currentLanguage": {
+    "description": "Current language"
+  },
+  "current": "Current",
+  "@current": {
+    "description": "Current"
+  },
+  "answer": "Answer:",
+  "@answer": {
+    "description": "Answer:"
+  },
+  "meaning": "Meaning:",
+  "@meaning": {
+    "description": "Meaning:"
+  },
+  "check": "Check",
+  "@check": {
+    "description": "Check"
+  },
+  "correct": "Correct",
+  "@correct": {
+    "description": "Correct"
+  },
+  "incorrect": "Incorrect",
+  "@incorrect": {
+    "description": "Incorrect"
+  },
+  "understand": "Understand",
+  "@understand": {
+    "description": "Understand"
+  },
+  "youReDoingAmazing": "You're doing amazing!",
+  "@youReDoingAmazing": {
+    "description": "You're doing amazing!"
+  },
+  "keepGoingToLearnMoreWords": "Keep going to learn more words!",
+  "@keepGoingToLearnMoreWords": {
+    "description": "Keep going to learn more words!"
+  },
+  "wellDone": "Well done!",
+  "@wellDone": {
+    "description": "Well done!"
+  },
+  "youJustLearned": "You just learned",
+  "@youJustLearned": {
+    "description": "You just learned"
+  },
+  "text5NewWords": "5 new words",
+  "@text5NewWords": {
+    "description": "5 new words"
+  },
+  "nowLetSSeeIfTheyStickTime": "Now let’s see if they stick. Time for a quick practice round!",
+  "@nowLetSSeeIfTheyStickTime": {
+    "description": "Now let’s see if they stick. Time for a quick practice round!"
+  },
+  "letSGo": "Let's go!",
+  "@letSGo": {
+    "description": "Let's go!"
+  },
+  "nextLesson": "Next lesson",
+  "@nextLesson": {
+    "description": "Next lesson"
+  },
+  "chooseYourAnswer": "Choose your answer",
+  "@chooseYourAnswer": {
+    "description": "Choose your answer"
+  },
+  "correctPraise": "✅ Correct (Praise)",
+  "@correctPraise": {
+    "description": "✅ Correct (Praise)"
+  },
+  "awesome": "Awesome!",
+  "@awesome": {
+    "description": "Awesome!"
+  },
+  "nicelyDone": "Nicely done!",
+  "@nicelyDone": {
+    "description": "Nicely done!"
+  },
+  "youGotIt": "You got it!",
+  "@youGotIt": {
+    "description": "You got it!"
+  },
+  "excellent": "Excellent!",
+  "@excellent": {
+    "description": "Excellent!"
+  },
+  "perfect": "Perfect!",
+  "@perfect": {
+    "description": "Perfect!"
+  },
+  "incorrectEncouragement": "❌ Incorrect (Encouragement)",
+  "@incorrectEncouragement": {
+    "description": "❌ Incorrect (Encouragement)"
+  },
+  "notQuite": "Not quite!",
+  "@notQuite": {
+    "description": "Not quite!"
+  },
+  "keepTrying": "Keep trying!",
+  "@keepTrying": {
+    "description": "Keep trying!"
+  },
+  "almostThere": "Almost there!",
+  "@almostThere": {
+    "description": "Almost there!"
+  },
+  "donTGiveUp": "Don't give up!",
+  "@donTGiveUp": {
+    "description": "Don't give up!"
+  },
+  "soClose": "So close!",
+  "@soClose": {
+    "description": "So close!"
+  },
+  "tapToStartRecording": "Tap to start recording",
+  "@tapToStartRecording": {
+    "description": "Tap to start recording"
+  },
+  "sending": "Sending...",
+  "@sending": {
+    "description": "Sending..."
+  },
+  "tapToStop": "Tap to stop",
+  "@tapToStop": {
+    "description": "Tap to stop"
+  },
+  "recordingTapToStop": "Recording...Tap to stop",
+  "@recordingTapToStop": {
+    "description": "Recording...Tap to stop"
+  },
+  "resumeYourSession": "Resume your session?",
+  "@resumeYourSession": {
+    "description": "Resume your session?"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel"
+  },
+  "continue2": "Continue",
+  "@continue2": {
+    "description": "Continue"
+  },
+  "chooseATopicToLearn": "Choose a topic to learn",
+  "@chooseATopicToLearn": {
+    "description": "Choose a topic to learn"
+  },
+  "learnWordsEasy": "Learn Words Easy",
+  "@learnWordsEasy": {
+    "description": "Learn Words Easy"
+  },
+  "learnVocabularyWithFunShortVideosAndInteractive": "Learn vocabulary with fun short videos and interactive practice.",
+  "@learnVocabularyWithFunShortVideosAndInteractive": {
+    "description": "Learn vocabulary with fun short videos and interactive practice."
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Start"
+  },
+  "wouldYouLikeToPracticeMore": "Would you like to practice more?",
+  "@wouldYouLikeToPracticeMore": {
+    "description": "Would you like to practice more?"
+  },
+  "yesLetSPracticeMore": "Yes, let’s practice more",
+  "@yesLetSPracticeMore": {
+    "description": "Yes, let’s practice more"
+  },
+  "noMaybeLater": "No, maybe later",
+  "@noMaybeLater": {
+    "description": "No, maybe later"
+  },
+  "correctAnswers": "Correct answers",
+  "@correctAnswers": {
+    "description": "Correct answers"
+  },
+  "wrongAnswers": "Wrong answers",
+  "@wrongAnswers": {
+    "description": "Wrong answers"
+  },
+  "wordsToPractice": "Words to practice",
+  "@wordsToPractice": {
+    "description": "Words to practice"
+  },
+  "practiceMore": "Practice more",
+  "@practiceMore": {
+    "description": "Practice more"
+  },
+  "backToHome": "Back to home",
+  "@backToHome": {
+    "description": "Back to home"
+  },
+  "greatJob": "Great job!",
+  "@greatJob": {
+    "description": "Great job!"
+  },
+  "youDidBetterThanYesterday": "You did better than yesterday.",
+  "@youDidBetterThanYesterday": {
+    "description": "You did better than yesterday."
+  },
+  "wellDone2": "Well done!",
+  "@wellDone2": {
+    "description": "Well done!"
+  },
+  "youAreMakingProgressEveryDay": "You are making progress every day.",
+  "@youAreMakingProgressEveryDay": {
+    "description": "You are making progress every day."
+  },
+  "niceWork": "Nice work!",
+  "@niceWork": {
+    "description": "Nice work!"
+  },
+  "youAreGettingBetterWithEveryLesson": "You are getting better with every lesson.",
+  "@youAreGettingBetterWithEveryLesson": {
+    "description": "You are getting better with every lesson."
+  },
+  "keepItUp": "Keep it up!",
+  "@keepItUp": {
+    "description": "Keep it up!"
+  },
+  "yourHardWorkIsPayingOff": "Your hard work is paying off.",
+  "@yourHardWorkIsPayingOff": {
+    "description": "Your hard work is paying off."
+  },
+  "amazingEffort": "Amazing effort!",
+  "@amazingEffort": {
+    "description": "Amazing effort!"
+  },
+  "youAreOneStepAheadOfYesterday": "You are one step ahead of yesterday.",
+  "@youAreOneStepAheadOfYesterday": {
+    "description": "You are one step ahead of yesterday."
+  },
+  "ooofSoCloseGiveItAnotherShot": "Ooof, so close! Give it another shot!",
+  "@ooofSoCloseGiveItAnotherShot": {
+    "description": "Ooof, so close! Give it another shot!"
+  },
+  "wrongButHeyIVeBeenThereToo": "Wrong, but hey, I've been there too! 😅",
+  "@wrongButHeyIVeBeenThereToo": {
+    "description": "Wrong, but hey, I've been there too! 😅"
+  },
+  "oopsYourBrainSJustWarmingUpTry": "Oops! Your brain's just warming up, try again!",
+  "@oopsYourBrainSJustWarmingUpTry": {
+    "description": "Oops! Your brain's just warming up, try again!"
+  },
+  "notQuiteButIRespectTheEffort": "Not quite, but I respect the effort! ❤️",
+  "@notQuiteButIRespectTheEffort": {
+    "description": "Not quite, but I respect the effort! ❤️"
+  },
+  "missedItButChampionsKeepSwinging": "Missed it, but champions keep swinging!",
+  "@missedItButChampionsKeepSwinging": {
+    "description": "Missed it, but champions keep swinging!"
+  },
+  "wrongAnswerButYouReStillAwesome": "Wrong answer, but you're still awesome 😘",
+  "@wrongAnswerButYouReStillAwesome": {
+    "description": "Wrong answer, but you're still awesome 😘"
+  },
+  "notRightButYouReLearningThatS": "Not right, but you're learning — that's the win!",
+  "@notRightButYouReLearningThatS": {
+    "description": "Not right, but you're learning — that's the win!"
+  },
+  "notThisTimeButTheNextOneIs": "Not this time, but the next one is yours!",
+  "@notThisTimeButTheNextOneIs": {
+    "description": "Not this time, but the next one is yours!"
+  },
+  "awwwSoCloseDonTGiveUpNow": "Awww so close! Don't give up now!",
+  "@awwwSoCloseDonTGiveUpNow": {
+    "description": "Awww so close! Don't give up now!"
+  },
+  "wrongButNowYouLlNeverForgetIt": "Wrong, but now you'll never forget it 😏",
+  "@wrongButNowYouLlNeverForgetIt": {
+    "description": "Wrong, but now you'll never forget it 😏"
+  },
+  "noStressTakeABreathAndKeepGoing": "No stress! Take a breath and keep going!",
+  "@noStressTakeABreathAndKeepGoing": {
+    "description": "No stress! Take a breath and keep going!"
+  },
+  "missedButICanTellYouReReally": "Missed! But I can tell you're really trying!",
+  "@missedButICanTellYouReReally": {
+    "description": "Missed! But I can tell you're really trying!"
+  },
+  "oneWrongAnswerDoesnTDefineYouOkay": "One wrong answer doesn't define you, okay?",
+  "@oneWrongAnswerDoesnTDefineYouOkay": {
+    "description": "One wrong answer doesn't define you, okay?"
+  },
+  "totallyOffButYouReStillCoolWith": "Totally off, but you're still cool with me 😎",
+  "@totallyOffButYouReStillCoolWith": {
+    "description": "Totally off, but you're still cool with me 😎"
+  },
+  "youReStillHereTryingThatSWhat": "You're still here trying — that's what matters!",
+  "@youReStillHereTryingThatSWhat": {
+    "description": "You're still here trying — that's what matters!"
+  },
+  "notYetAndYetIsAPowerfulWord": "Not yet! And \"yet\" is a powerful word!",
+  "@notYetAndYetIsAPowerfulWord": {
+    "description": "Not yet! And \"yet\" is a powerful word!"
+  },
+  "mistakesTodayTurnIntoWinsTomorrow": "Mistakes today turn into wins tomorrow! 🤝",
+  "@mistakesTodayTurnIntoWinsTomorrow": {
+    "description": "Mistakes today turn into wins tomorrow! 🤝"
+  },
+  "shakeItOffTheNextOneSCalling": "Shake it off, the next one's calling your name!",
+  "@shakeItOffTheNextOneSCalling": {
+    "description": "Shake it off, the next one's calling your name!"
+  },
+  "missedItButIVeGotAFeeling": "Missed it, but I've got a feeling about the next one!",
+  "@missedItButIVeGotAFeeling": {
+    "description": "Missed it, but I've got a feeling about the next one!"
+  },
+  "wrongButNeverWrongForTryingIVe": "Wrong, but never wrong for trying — I've got you! 💛",
+  "@wrongButNeverWrongForTryingIVe": {
+    "description": "Wrong, but never wrong for trying — I've got you! 💛"
+  },
+  "notQuiteButYouReCloserThanYou": "Not quite, but you're closer than you think!",
+  "@notQuiteButYouReCloserThanYou": {
+    "description": "Not quite, but you're closer than you think!"
+  },
+  "missedItButThatSHowTheMagic": "Missed it! But that's how the magic happens!",
+  "@missedItButThatSHowTheMagic": {
+    "description": "Missed it! But that's how the magic happens!"
+  },
+  "wrongButDonTWorryIStillGot": "Wrong, but don't worry — I still got snacks for ya! 🍪",
+  "@wrongButDonTWorryIStillGot": {
+    "description": "Wrong, but don't worry — I still got snacks for ya! 🍪"
+  },
+  "oopsEvenProsMessUpYouReIn": "Oops! Even pros mess up, you're in good company!",
+  "@oopsEvenProsMessUpYouReIn": {
+    "description": "Oops! Even pros mess up, you're in good company!"
+  },
+  "notThisOneButYouReGrowingWith": "Not this one, but you're growing with every try!",
+  "@notThisOneButYouReGrowingWith": {
+    "description": "Not this one, but you're growing with every try!"
+  },
+  "awwMissedYourBrainSJustStretchingThat": "Aww, missed! Your brain's just stretching, that's all!",
+  "@awwMissedYourBrainSJustStretchingThat": {
+    "description": "Aww, missed! Your brain's just stretching, that's all!"
+  },
+  "wrongButTryingBeatsGivingUpEverySingle": "Wrong, but trying beats giving up every single time!",
+  "@wrongButTryingBeatsGivingUpEverySingle": {
+    "description": "Wrong, but trying beats giving up every single time!"
+  },
+  "notRightButHeyAtLeastYouRe": "Not right, but hey — at least you're not boring! 😎",
+  "@notRightButHeyAtLeastYouRe": {
+    "description": "Not right, but hey — at least you're not boring! 😎"
+  },
+  "missedItButMistakesAreJustFutureWins": "Missed it! But mistakes are just future wins in disguise!",
+  "@missedItButMistakesAreJustFutureWins": {
+    "description": "Missed it! But mistakes are just future wins in disguise!"
+  },
+  "notCorrectButIMStillCheeringLoud": "Not correct, but I'm still cheering loud over here! 📣",
+  "@notCorrectButIMStillCheeringLoud": {
+    "description": "Not correct, but I'm still cheering loud over here! 📣"
+  },
+  "todaySGoal": "Today's goal",
+  "@todaySGoal": {
+    "description": "Today's goal"
+  },
+  "sWords": "%s words",
+  "@sWords": {
+    "description": "%s words"
+  },
+  "wordS": "Word %s",
+  "@wordS": {
+    "description": "Word %s"
+  },
+  "sLessonsCompleted": "%s lessons completed",
+  "@sLessonsCompleted": {
+    "description": "%s lessons completed"
+  },
+  "lessonS": "LESSON %s",
+  "@lessonS": {
+    "description": "LESSON %s"
+  },
+  "unitS": "UNIT %s",
+  "@unitS": {
+    "description": "UNIT %s"
+  },
+  "sMinutes": "~%s minutes",
+  "@sMinutes": {
+    "description": "~%s minutes"
+  },
+  "sNewWords": "%s new words",
+  "@sNewWords": {
+    "description": "%s new words"
+  },
+  "startLessonS": "Start lesson %s",
+  "@startLessonS": {
+    "description": "Start lesson %s"
+  },
+  "tapToListenAgain": "Tap to listen again",
+  "@tapToListenAgain": {
+    "description": "Tap to listen again"
+  },
+  "tapToAnswer": "Tap to answer",
+  "@tapToAnswer": {
+    "description": "Tap to answer"
+  },
+  "example": "EXAMPLE",
+  "@example": {
+    "description": "EXAMPLE"
+  },
+  "practiceInContext": "PRACTICE IN CONTEXT",
+  "@practiceInContext": {
+    "description": "PRACTICE IN CONTEXT"
+  },
+  "letSRevisitTheSWordsYouJust": "Let's revisit the %s words you just learned!",
+  "@letSRevisitTheSWordsYouJust": {
+    "description": "Let's revisit the %s words you just learned!"
+  },
+  "funActivitiesAreWaitingNoHintsThisTime": "Fun activities are waiting. No hints this time. You've got this!",
+  "@funActivitiesAreWaitingNoHintsThisTime": {
+    "description": "Fun activities are waiting. No hints this time. You've got this!"
+  },
+  "fillInTheBlank": "Fill in the blank",
+  "@fillInTheBlank": {
+    "description": "Fill in the blank"
+  },
+  "listenAndRepeat": "Listen and repeat",
+  "@listenAndRepeat": {
+    "description": "Listen and repeat"
+  },
+  "rearrange": "Rearrange",
+  "@rearrange": {
+    "description": "Rearrange"
+  },
+  "matchPictures": "Match pictures",
+  "@matchPictures": {
+    "description": "Match pictures"
+  },
+  "translate": "Translate",
+  "@translate": {
+    "description": "Translate"
+  },
+  "letSPractice": "Let's practice",
+  "@letSPractice": {
+    "description": "Let's practice"
+  },
+  "combo": "COMBO",
+  "@combo": {
+    "description": "COMBO"
+  },
+  "sConsecutiveCorrectAnswers": "%s consecutive correct answers",
+  "@sConsecutiveCorrectAnswers": {
+    "description": "%s consecutive correct answers"
+  },
+  "bonusSXp": "Bonus +%s XP",
+  "@bonusSXp": {
+    "description": "Bonus +%s XP"
+  },
+  "continueAutomatically": "Continue automatically ...",
+  "@continueAutomatically": {
+    "description": "Continue automatically ..."
+  },
+  "youShouldSay": "YOU SHOULD SAY",
+  "@youShouldSay": {
+    "description": "YOU SHOULD SAY"
+  },
+  "xpEarned": "XP earned",
+  "@xpEarned": {
+    "description": "XP earned"
+  },
+  "duration": "Duration",
+  "@duration": {
+    "description": "Duration"
+  },
+  "sWordsLearned": "%s words learned",
+  "@sWordsLearned": {
+    "description": "%s words learned"
+  },
+  "doYouWantToRetryWrongAnswers": "Do you want to retry wrong answers?",
+  "@doYouWantToRetryWrongAnswers": {
+    "description": "Do you want to retry wrong answers?"
+  },
+  "yesLetSPracticeMore2": "Yes, let's practice more",
+  "@yesLetSPracticeMore2": {
+    "description": "Yes, let's practice more"
+  },
+  "currentLesson": "Current lesson",
+  "@currentLesson": {
+    "description": "Current lesson"
+  },
+  "thisIsYourCurrentLessonCompleteItTo": "This is your current lesson. Complete it to unlock the next lesson.",
+  "@thisIsYourCurrentLessonCompleteItTo": {
+    "description": "This is your current lesson. Complete it to unlock the next lesson."
+  },
+  "gotIt": "Got it",
+  "@gotIt": {
+    "description": "Got it"
+  },
+  "startLearningNow": "Start learning now",
+  "@startLearningNow": {
+    "description": "Start learning now"
+  },
+  "tapThisButtonToWatchTheFirstVocabulary": "Tap this button to watch the first vocabulary video",
+  "@tapThisButtonToWatchTheFirstVocabulary": {
+    "description": "Tap this button to watch the first vocabulary video"
+  },
+  "letSStart": "Let's start",
+  "@letSStart": {
+    "description": "Let's start"
+  },
+  "learnVocabularyThrough5SecondAiVideos": "Learn vocabulary through 5-second AI videos",
+  "@learnVocabularyThrough5SecondAiVideos": {
+    "description": "Learn vocabulary through 5-second AI videos"
+  },
+  "watchTheIllustratedVideoGuessTheMeaningLock": "Watch the illustrated video. Guess the meaning. Lock it in with spaced repetition.",
+  "@watchTheIllustratedVideoGuessTheMeaningLock": {
+    "description": "Watch the illustrated video. Guess the meaning. Lock it in with spaced repetition."
+  },
+  "learnVocabularyThroughShortVideos": "Learn vocabulary through short videos",
+  "@learnVocabularyThroughShortVideos": {
+    "description": "Learn vocabulary through short videos"
+  },
+  "exitLesson": "Exit lesson?",
+  "@exitLesson": {
+    "description": "Exit lesson?"
+  },
+  "yourProgressWonTBeSaved": "Your progress won't be saved.",
+  "@yourProgressWonTBeSaved": {
+    "description": "Your progress won't be saved."
+  },
+  "continueLearning": "Continue learning",
+  "@continueLearning": {
+    "description": "Continue learning"
+  },
+  "exit": "Exit",
+  "@exit": {
+    "description": "Exit"
+  },
+  "whyAreYouLeaving": "Why are you leaving?",
+  "@whyAreYouLeaving": {
+    "description": "Why are you leaving?"
+  },
+  "yourFeedbackHelpsVocademyImprove": "Your feedback helps Vocademy improve",
+  "@yourFeedbackHelpsVocademyImprove": {
+    "description": "Your feedback helps Vocademy improve"
+  },
+  "technicalIssues": "Technical Issues",
+  "@technicalIssues": {
+    "description": "Technical Issues"
+  },
+  "appCrashesVideosWonTPlayDisplayIssues": "App crashes, videos won't play, display issues, etc.",
+  "@appCrashesVideosWonTPlayDisplayIssues": {
+    "description": "App crashes, videos won't play, display issues, etc."
+  },
+  "contentIssues": "Content issues",
+  "@contentIssues": {
+    "description": "Content issues"
+  },
+  "tooHardEasyNotEngagingEtc": "Too hard/easy, not engaging, etc.",
+  "@tooHardEasyNotEngagingEtc": {
+    "description": "Too hard/easy, not engaging, etc."
+  },
+  "otherReason": "Other reason",
+  "@otherReason": {
+    "description": "Other reason"
+  },
+  "needABreakBusyRightNowEtc": "Need a break, busy right now, etc.",
+  "@needABreakBusyRightNowEtc": {
+    "description": "Need a break, busy right now, etc."
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip"
+  },
+  "doYouLikeVocademy": "Do you like Vocademy?",
+  "@doYouLikeVocademy": {
+    "description": "Do you like Vocademy?"
+  },
+  "yesILoveIt": "Yes, I love it",
+  "@yesILoveIt": {
+    "description": "Yes, I love it"
+  },
+  "itSJustOkay": "It's just okay",
+  "@itSJustOkay": {
+    "description": "It's just okay"
+  },
+  "noIDonTLikeItAtAll": "No, I don't like it at all",
+  "@noIDonTLikeItAtAll": {
+    "description": "No, I don't like it at all"
+  },
+  "isTheVocabularySuitableForYourLevel": "Is the vocabulary suitable for your level?",
+  "@isTheVocabularySuitableForYourLevel": {
+    "description": "Is the vocabulary suitable for your level?"
+  },
+  "noItSTooEasy": "No, it's too easy",
+  "@noItSTooEasy": {
+    "description": "No, it's too easy"
+  },
+  "yesItSJustRight": "Yes, it's just right",
+  "@yesItSJustRight": {
+    "description": "Yes, it's just right"
+  },
+  "noItSTooDifficult": "No, it's too difficult",
+  "@noItSTooDifficult": {
+    "description": "No, it's too difficult"
+  },
+  "thankYouForYourFeedback": "Thank you for your feedback!",
+  "@thankYouForYourFeedback": {
+    "description": "Thank you for your feedback!"
+  },
+  "weLlUseItToMakeVocademyBetter": "We'll use it to make Vocademy better.",
+  "@weLlUseItToMakeVocademyBetter": {
+    "description": "We'll use it to make Vocademy better."
+  },
+  "yourFeedbackHelpsUsImprove": "Your feedback helps us improve.",
+  "@yourFeedbackHelpsUsImprove": {
+    "description": "Your feedback helps us improve."
+  },
+  "tellUsInAFewWordsEveryDetail": "Tell us in a few words — every detail helps.",
+  "@tellUsInAFewWordsEveryDetail": {
+    "description": "Tell us in a few words — every detail helps."
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit"
+  },
+  "whatDoYouLikeMost": "What do you like most?",
+  "@whatDoYouLikeMost": {
+    "description": "What do you like most?"
+  },
+  "whatSOneThingThatWouldMakeThis": "What's one thing that would make this better?",
+  "@whatSOneThingThatWouldMakeThis": {
+    "description": "What's one thing that would make this better?"
+  },
+  "whatDonTYouLike": "What don't you like?",
+  "@whatDonTYouLike": {
+    "description": "What don't you like?"
+  },
+  "continueAction": "Continue",
+  "@continueAction": {
+    "description": "Continue"
+  }
+}
